@@ -12,18 +12,18 @@ You must complete the **Project Renaming** steps below **BEFORE** creating your 
 
 ## 🛠️ Project Customization (Renaming)
 
-Follow these steps to rename `dereact` to your custom project name:
+Follow these steps to rename `mingmusic` to your custom project name:
 
 ### 1. Rename the Core Directory
-Rename the inner configuration folder containing `settings.py` from `dereact` to your desired project name (e.g., `my_project`).
+Rename the inner configuration folder containing `settings.py` from `mingmusic` to your desired project name (e.g., `my_project`).
 ```text
 your-repository/
 │   manage.py
-└───dereact/   ──>   Rename this folder to: my_project/
+└───mingmusic/   ──>   Rename this folder to: my_project/
 ```
 
 ### 2. Update Configuration Files
-Open the following files in your code editor and replace every occurrence of the text `dereact` with your new project name:
+Open the following files in your code editor and replace every occurrence of the text `mingmusic` with your new project name:
 * `manage.py`
 * `[your_new_name]/settings.py`
 * `[your_new_name]/urls.py`
